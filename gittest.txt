@@ -2,4 +2,8 @@ this is git test file    first edit
 
 git is a distributed version control system   second edit
 
-git is a distributed version control system test   third edit
+git is a distributed version control system test add  third edit
+
+git is a distributed version control system test not add but commit  forth edit
+
+git is a distributed version control system test add and commit  fifth edit
