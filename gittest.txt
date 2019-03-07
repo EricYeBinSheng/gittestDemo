@@ -15,3 +15,5 @@ file is changes for not add and commit !    back one
 return to last line  (git checkout)
 
 now is in dev branch ? yes?
+
+now i am in branch feature!!!
