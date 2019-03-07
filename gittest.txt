@@ -20,4 +20,5 @@ now i am in branch feature!!!
 
 featrue is add not commit
 
-Creating a new branch is quick & simple
+Creating a new branch is quick and simple
+
