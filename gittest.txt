@@ -17,3 +17,5 @@ return to last line  (git checkout)
 now is in dev branch ? yes?
 
 now i am in branch feature!!!
+
+featrue is add not commit
